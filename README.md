@@ -4,17 +4,19 @@ In this notebook, you can explore how different optimization algorithms behave w
 
 The implemented algorithms include:
 
-Stochastic Gradient Descent (SGD)
+* Stochastic Gradient Descent (SGD)
 
-SGD with Momentum
+* SGD with Momentum
 
-Nesterov Momentum
+* Nesterov Momentum
 
 Interactive widgets allow you to adjust key parameters such as:
 
-the number of iterations
-the learning rate
-momentum
+* the number of iterations
+
+* the learning rate
+
+* momentum
 
 By tuning these parameters, you can observe how each algorithm moves across the function landscape. 
 ## Demo
